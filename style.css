@@ -3,7 +3,7 @@ body{
 }
 
 #top{
-	/*font-family: Verdana;*/
+	font-family: "Lucida Console", Monaco, monospace;
 	background-color: aliceblue;
 	text-align: center;
 	text-decoration-color: red;
