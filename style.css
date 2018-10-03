@@ -1,8 +1,10 @@
 body{
-	background-color: blue;
+	background-color: #b9f9f0;
 }
 
 .top{
-	font-family: Verdana;
-	color: pink;
+	/*font-family: Verdana;*/
+	background-color: aliceblue;
+	text-align: center;
+	text-decoration-color: red;
 }
