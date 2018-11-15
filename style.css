@@ -18,7 +18,7 @@ body{
     background-color: #f8f1f5;
     width: 90%;
     margin:auto;
-    border-bottom: 1px solid #95436e;
+   /* border-bottom: 1px solid #95436e;*/
 }
 
 ul.main_menu li {
@@ -31,6 +31,8 @@ ul.main_menu li {
 ul.main_menu li a {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     display: block;
+    float: none;
+    margin: auto;
     color: #95436e;
     text-align: center;
     padding: 14px 16px;
