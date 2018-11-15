@@ -16,6 +16,9 @@ body{
     padding: 0;
     overflow: hidden;
     background-color: #f8f1f5;
+    width: 60%;
+    margin:auto;
+    border-bottom: 1px solid #95436e;
 }
 
 ul.main_menu li {
@@ -23,9 +26,6 @@ ul.main_menu li {
 	color: #ffff;*/
 	float: left;
 	width: 25%;
-	border-bottom: 1px solid #95436e;
-	width: 60%;
-	margin: auto;
 }
 
 ul.main_menu li a {
