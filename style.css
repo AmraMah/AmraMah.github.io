@@ -18,7 +18,7 @@ body{
     background-color: #f8f1f5;
     width: 90%;
     margin:auto;
-   /* border-bottom: 1px solid #95436e;*/
+    border-bottom: 1px solid #95436e;
 }
 
 ul.main_menu li {
