@@ -36,7 +36,6 @@ ul.main_menu li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    border: 1px solid;
 	width: 50%;
 }
 
@@ -45,6 +44,7 @@ ul.main_menu li a:hover:not(.active) {
 }
 
 ul.main_menu li a:hover:not(.active) {
+	border: 1px solid;
 	border-color: #cca3ba;
 	border-top-left-radius: 6px;
 	border-bottom: none;
