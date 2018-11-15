@@ -9,3 +9,40 @@ body{
 	text-decoration-color: red;
 	color: #7e4eba;
 }
+
+.main_menu{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+ul.main_menu li {
+	/*font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: #ffff;*/
+	float: left;
+}
+
+ul.main_menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul.main_menu li a:hover:not(.active) {
+	background-color: #111;
+}
+
+ul.main_menu li a.active {
+	background-color: #4CAF50;
+}
+
+@media screen and (max-width: 600px){
+    ul.main_menu li.right, 
+    ul.main_menu li {
+    	float: none;
+    }
+}
