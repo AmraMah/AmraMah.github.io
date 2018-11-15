@@ -15,29 +15,32 @@ body{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #f8f1f5;
 }
 
 ul.main_menu li {
 	/*font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 	color: #ffff;*/
 	float: left;
+	width: 25%;
 }
 
 ul.main_menu li a {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     display: block;
-    color: white;
+    color: #95436e;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    border: DAC5D0;
 }
 
 ul.main_menu li a:hover:not(.active) {
-	background-color: #111;
+	color: #c35c92;
 }
 
 ul.main_menu li a.active {
-	background-color: #4CAF50;
+	background-color: #DAC5D0;
 }
 
 @media screen and (max-width: 600px){
