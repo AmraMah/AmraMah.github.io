@@ -37,6 +37,7 @@ ul.main_menu li a {
     padding: 14px 16px;
     text-decoration: none;
 	width: 50%;
+	border-style: hidden;
 }
 
 ul.main_menu li a:hover:not(.active) {
