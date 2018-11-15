@@ -44,7 +44,11 @@ ul.main_menu li a {
 }
 
 ul.main_menu li a:hover:not(.active) {
-	color: #c35c92;
+	color: #cca3ba;
+}
+
+ul.main_menu li a:hover:not(.active) {
+	border-color: #cca3ba;
 }
 
 ul.main_menu li a.active {
