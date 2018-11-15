@@ -38,9 +38,6 @@ ul.main_menu li a {
     text-decoration: none;
     border: 1px solid;
 	width: 50%;
-	border-top-left-radius: 6px;
-	border-bottom: none;
-	border-top-right-radius: 6px;
 }
 
 ul.main_menu li a:hover:not(.active) {
@@ -49,6 +46,9 @@ ul.main_menu li a:hover:not(.active) {
 
 ul.main_menu li a:hover:not(.active) {
 	border-color: #cca3ba;
+	border-top-left-radius: 6px;
+	border-bottom: none;
+	border-top-right-radius: 6px;
 }
 
 ul.main_menu li a.active {
