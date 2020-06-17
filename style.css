@@ -60,13 +60,15 @@ ul.main_menu li a.active {
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
-  width: 100%;
+  width: 80%;
+  float: none;
+  margin: auto;
 }
 
 td, th {
   border-top: 1px solid #95436e;
-  border-right: none;
-  border-left: none;
+  border-right: hidden;
+  border-left: hidden;
   text-align: left;
   padding: 8px;
 }
