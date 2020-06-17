@@ -67,6 +67,7 @@ table {
 
 td, th {
   border-top: 1px solid #95436e;
+  border-bottom: 1px solid #95436e;
   border-right: hidden;
   border-left: hidden;
   text-align: left;
