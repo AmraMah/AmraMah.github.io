@@ -11,7 +11,7 @@ body{
 }
 
 .main_menu{
-	list-style-type: none;
+   list-style-type: none;
     padding: 0;
     overflow: hidden;
     background-color: #f8f1f5;
@@ -28,7 +28,7 @@ ul.main_menu li {
 }
 
 ul.main_menu li a {
-	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     display: block;
     float: none;
     margin: auto;
@@ -55,6 +55,22 @@ ul.main_menu li a:hover:not(.active) {
 
 ul.main_menu li a.active {
 	background-color: #DAC5D0;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #95436e;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dfbacf33;
 }
 
 @media screen and (max-width: 600px){
