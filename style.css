@@ -24,7 +24,7 @@ ul.main_menu li {
 	/*font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 	color: #ffff;*/
 	float: left;
-	width: 25%;
+	width: 33%;
 }
 
 ul.main_menu li a {
@@ -71,6 +71,7 @@ td, th {
   border-left: hidden;
   text-align: left;
   padding: 8px;
+  color: #6f4259;
 }
 
 tr:nth-child(even) {
@@ -84,8 +85,8 @@ tr:nth-child(even) {
     }
 }
 
-h2, p {
+h2 {
 	font-family: arial, sans-serif;
-	color: #cca3ba;
+	color: #713b57;
 	text-align: center;
 }
