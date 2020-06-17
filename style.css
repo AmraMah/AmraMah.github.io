@@ -76,6 +76,12 @@ tr:nth-child(even) {
 @media screen and (max-width: 600px){
     ul.main_menu li.right, 
     ul.main_menu li {
-    	float: none;
+    float: none;
     }
+}
+
+h2, p {
+	font-family: arial, sans-serif;
+	color: #cca3ba;
+	text-align: center;
 }
