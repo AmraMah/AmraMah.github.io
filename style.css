@@ -107,6 +107,9 @@ label {
 #name, #email, textarea {
 	width:85%;
 	padding: 10px;
+	    border-radius: 3px;
+    /* border-color: #95436e; */
+    border-style: hidden;
 }
 textarea {
 	height:100px;
