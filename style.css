@@ -112,4 +112,12 @@ textarea {
 }
 #name, #email {
     height: 30px;
-    
+}
+
+#submit {
+	    width: 90px;
+    padding: 6px;
+    text-align: center;
+    background-color: #ffffff;
+    color: #95436e;
+}
