@@ -132,7 +132,7 @@ input submit {
     font-family: arial, sans-serif;
 }
 
-input.submit {
+input [type="submit" i] {
     width: 90px;
     padding: 6px;
     text-align: center;
