@@ -91,3 +91,13 @@ tr:nth-child(even) {
     float: none;
     }
 }
+
+label {
+	padding: 20px;
+	color: #6f4259;
+	font-family: arial, sans-serif;
+}
+
+input, textarea {
+	width:100%;
+}
