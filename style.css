@@ -123,3 +123,20 @@ textarea {
     color: #95436e;
     font-family: arial, sans-serif;
 }
+input submit {
+    width: 90px;
+    padding: 6px;
+    text-align: center;
+    background-color: #ffffff;
+    color: #95436e;
+    font-family: arial, sans-serif;
+}
+
+input.submit {
+    width: 90px;
+    padding: 6px;
+    text-align: center;
+    background-color: #ffffff;
+    color: #95436e;
+    font-family: arial, sans-serif;
+}
