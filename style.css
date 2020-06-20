@@ -98,13 +98,14 @@ tr:nth-child(even) {
 }
 
 label {
-	padding: 20px;
+	padding: 10px;
 	color: #6f4259;
 	font-family: arial, sans-serif;
+	width:15%;
 }
 
 #name, #email, textarea {
-	width:100%;
+	width:35%;
 	padding: 10px;
 }
 textarea {
@@ -115,9 +116,10 @@ textarea {
 }
 
 #submit {
-	    width: 90px;
+    width: 90px;
     padding: 6px;
     text-align: center;
     background-color: #ffffff;
     color: #95436e;
+    font-family: arial, sans-serif;
 }
