@@ -92,7 +92,7 @@ h2 {
 	text-align: center;
 }
 */
-#form_div {
+#div1 {
 width:100%;
 height:100%;
 opacity:.95;
@@ -109,7 +109,7 @@ right:-14px;
 top:-14px;
 cursor:pointer
 }
-/*
+
 div#form_div {
 position:absolute;
 left:50%;
@@ -117,7 +117,7 @@ top:17%;
 margin-left:-202px;
 font-family:'Raleway',sans-serif
 }
-*/
+
 form {
 max-width:300px;
 min-width:250px;
