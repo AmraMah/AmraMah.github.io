@@ -75,6 +75,12 @@ td, th {
   color: #6f4259;
 }
 
+h2 {
+   font-family: arial, sans-serif;
+   color: #713b57;
+   text-align: center;
+}
+
 tr:nth-child(even) {
   background-color: #dfbacf33;
 }
@@ -84,10 +90,4 @@ tr:nth-child(even) {
     ul.main_menu li {
     float: none;
     }
-}
-
-h2 {
-	font-family: arial, sans-serif;
-	color: #713b57;
-	text-align: center;
 }
