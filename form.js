@@ -9,12 +9,10 @@ alert("Form Submitted Successfully...");
 }
 }
 
-//show popup
-function div_show() {
-document.getElementById('abc').style.display = "block";
+function show_form() {
+document.getElementById('form_div').style.display = "block";
 }
 
-//hide popup
-function div_hide(){
-document.getElementById('abc').style.display = "none";
+function hide_form(){
+document.getElementById('form_div').style.display = "none";
 }
