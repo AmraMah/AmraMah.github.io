@@ -103,6 +103,13 @@ label {
 	font-family: arial, sans-serif;
 }
 
-input, textarea {
+#name, #email, textarea {
 	width:100%;
+	padding: 10px;
 }
+textarea {
+	height:100px;
+}
+#name, #email {
+    height: 30px;
+    
