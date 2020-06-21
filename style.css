@@ -103,7 +103,7 @@ label {
 	width:15%;
 }
 
-#name, #email, textarea {
+#name, #email {
 	width:85%;
 	padding: 10px;
 	border-radius: 3px;
@@ -112,6 +112,11 @@ label {
 }
 textarea {
 	height:100px;
+	width:100%;
+	padding: 10px;
+	border-radius: 3px;
+        margin-bottom: 20px;
+	border-style: hidden;
 }
 #name, #email {
     height: 30px;
