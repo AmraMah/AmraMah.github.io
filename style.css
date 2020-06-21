@@ -98,7 +98,6 @@ tr:nth-child(even) {
 }
 
 label {
-	padding: 10px;
 	color: #6f4259;
 	font-family: arial, sans-serif;
 	width:15%;
@@ -107,9 +106,9 @@ label {
 #name, #email, textarea {
 	width:85%;
 	padding: 10px;
-	    border-radius: 3px;
-    /* border-color: #95436e; */
-    border-style: hidden;
+	border-radius: 3px;
+        margin-bottom: 20px;
+	border-style: hidden;
 }
 textarea {
 	height:100px;
