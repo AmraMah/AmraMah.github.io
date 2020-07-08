@@ -147,3 +147,8 @@ input [type="submit" i] {
     color: #95436e;
     font-family: arial, sans-serif;
 }
+
+#contact-info {
+	color: #6f4259;
+	font-family: arial, sans-serif;
+}
