@@ -5,9 +5,10 @@ body{
 }
 
 #name {
-	color: black;
-	background: white;
+	color: #7315a2;
+	background: #ffffffba;
 	background-border: black;
+	font-family: sans-serif;
 }
 
 #top{
