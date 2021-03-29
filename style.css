@@ -12,6 +12,13 @@ body{
     	background: inherit;
 }
 
+#projects {
+	font-family: sans-serif;
+    	color: #fefcfe;
+    	padding: 2px;
+    	background: inherit;
+}
+
 /*
 #top{
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
