@@ -1,10 +1,6 @@
 body{
 	/*background-image: url('americana-1512910_1280.png');*/
-}
-
-#page {
-	background-image: url('3672377.jpg');
-	opacity: 0.5;	
+	background-image: url('bg.png');
 }
 
 #top{
