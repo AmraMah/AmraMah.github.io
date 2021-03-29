@@ -14,10 +14,12 @@ body{
 
 #projects {
 	font-family: sans-serif;
-	text-align: center;
+	/*text-align: center;*/
     	font-color: #fefcfe;
     	padding: 2px;
     	background: inherit;
+	padding: 2px;
+	margin: 10px;
 }
 
 a {
