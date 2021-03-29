@@ -25,6 +25,10 @@ a {
     	text-decoration: none;
     	color: #fefcfe;
 }
+
+ul {
+  list-style-image: url('fi.jpg');
+}
 /*
 #top{
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
