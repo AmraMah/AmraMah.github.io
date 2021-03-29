@@ -14,11 +14,17 @@ body{
 
 #projects {
 	font-family: sans-serif;
-    	color: #fefcfe;
+	text-align: center;
+    	font-color: #fefcfe;
     	padding: 2px;
     	background: inherit;
 }
 
+a {
+	font-family: sans-serif;
+    	text-decoration: none;
+    	color: #fefcfe;
+}
 /*
 #top{
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
