@@ -4,21 +4,21 @@ body{
 	background-size: cover;
 }
 
-#name {
+#top {
 	color: #7315a2;
 	background: #ffffff;
 	background-border: black;
 	font-family: sans-serif;
 }
 
+/*
 #top{
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-	/*background-color: white;*/
 	text-align: center;
 	text-decoration-color: red;
 	color: #7e4eba;
 }
-
+*/
 .main_menu{
    list-style-type: none;
     padding: 0;
