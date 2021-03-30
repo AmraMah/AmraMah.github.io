@@ -28,6 +28,10 @@ a {
     	color: #fefcfe;
 }
 
+a:hover {
+	color: pink;
+}
+
 ul {
   list-style-image: url('folder-small.png');
 }
@@ -38,20 +42,17 @@ ul {
 	text-decoration-color: red;
 	color: #7e4eba;
 }
-*/
+
 .main_menu{
    list-style-type: none;
     padding: 0;
     overflow: hidden;
-   /* background-color: #f8f1f5;*/
     width: 90%;
     margin:auto;
     border-bottom: 1px solid #95436e;
 }
 
 ul.main_menu li {
-	/*font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-	color: #ffff;*/
 	float: left;
 	width: 33%;
 }
@@ -185,3 +186,4 @@ input [type="submit" i] {
 	margin:5%;
 	width: 45%;
 }
+*/
