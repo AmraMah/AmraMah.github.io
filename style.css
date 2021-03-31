@@ -44,11 +44,12 @@ ul {
 }
 
 .button {
-  background-color: #aa64db;
-  color: white;
-  padding: 10px 18px;
-  display: inline-block;
-  font-size: 16px;
+	background-color: #aa64db;
+	color: white;
+	border: none;
+	padding: 10px 18px;
+	display: inline-block;
+	font-size: 16px;
 }
 
 .button:hover {
