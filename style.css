@@ -33,10 +33,11 @@ a:hover {
 }
 
 ul {
-  list-style-image: url('folder-small.png');
-  columns: 2;
-  -webkit-columns: 2;
-  -moz-columns: 2;
+  	list-style-image: url('folder-small.png');
+  	columns: 2;
+	text-align: left;
+  	-webkit-columns: 2;
+  	-moz-columns: 2;
 }
 /*
 #top{
