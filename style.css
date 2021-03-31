@@ -26,6 +26,9 @@ label {
 	color: #fefcfe;
 }
 
+#contact_info {
+	display: inline-block;
+
 a {
 	font-family: sans-serif;
     	text-decoration: none;
