@@ -20,6 +20,14 @@ body{
 	margin: 10px;
 }
 
+#form_div {
+	padding: 20px; 
+	margin: 30px 10px 10px; 
+	font-family: sans-serif; 
+	font-color: #fefcfe; 
+	background: inherit;	
+}
+
 label {
 	color: #fefcfe;
 }
