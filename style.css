@@ -12,7 +12,7 @@ body{
     	background: inherit;
 }
 
-#projects {
+#projects, #form_div {
 	font-family: sans-serif;
 	/*text-align: center;*/
     	font-color: #fefcfe;
