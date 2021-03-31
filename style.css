@@ -12,7 +12,7 @@ body{
     	background: inherit;
 }
 
-#projects, #form_div, #contact_info {
+#projects, #form_div {
 	font-family: sans-serif;
 	/*text-align: center;*/
     	font-color: #fefcfe;
@@ -26,8 +26,6 @@ label {
 	color: #fefcfe;
 }
 
-#contact_info {
-	display: inline-block;
 
 a {
 	font-family: sans-serif;
