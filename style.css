@@ -12,7 +12,7 @@ body{
     	background: inherit;
 }
 
-#projects, #form_div {
+#projects {
 	font-family: sans-serif;
 	/*text-align: center;*/
     	font-color: #fefcfe;
@@ -21,11 +21,11 @@ body{
 	padding: 2px;
 	margin: 10px;
 }
-
+/*
 label {
 	color: #fefcfe;
 }
-
+*/
 
 a {
 	font-family: sans-serif;
