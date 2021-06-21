@@ -5,6 +5,11 @@ body{
 	background-size: cover;
 }
 
+div {
+	background: #0a6380;
+	border: 2px #81bbce;
+	border-radius: 4px;
+}
 #top {
 	font-family: sans-serif;
     	text-align: center;
