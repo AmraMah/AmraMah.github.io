@@ -15,7 +15,7 @@ div {
     	text-align: center;
     	color: #fefcfe;
     	padding: 2px;
-    	/*background: inherit;*/
+    	background-imahe: url('image.jpg');
 }
 
 #projects {
