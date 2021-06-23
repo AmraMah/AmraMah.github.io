@@ -48,7 +48,8 @@ a {
 }
 
 a:hover {
-	color: #ff731f;;
+	color: #fd4f1b;
+	background: #ffffffd4;
 }
 
 ul {
