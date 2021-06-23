@@ -1,7 +1,7 @@
 body{
 	/*background-image: url('americana-1512910_1280.png');*/
 	/*background-image: url('bg.png');*/
-	background-color: white;
+	 background-image: linear-gradient(#f9f8f3, #fff);
 	background-size: cover;
 }
 
@@ -11,7 +11,7 @@ div {
 	border-radius: 4px;
 }
 #top {
-	background: #e8e7e1;
+	background: #f9f8f3;
 	font-family: sans-serif;
     	text-align: center;
     	color: #fd4f1b;
@@ -44,11 +44,11 @@ label {
 a {
 	font-family: sans-serif;
     	text-decoration: none;
-    	color: #fd4f1b;
+    	color: #ffb21f;
 }
 
 a:hover {
-	color: #ff4d18;
+	color: #ff731f;;
 }
 
 ul {
@@ -60,7 +60,7 @@ ul {
 }
 
 .button {
-	background-color: #81bbce;
+	background-color: #ffb21f;
 	color: white;
 	border: none;
 	border-radius: 2px;
@@ -70,7 +70,7 @@ ul {
 }
 
 .button:hover {
-	background-color: #c492cc;	
+	background-color: #ff731f;	
 }
 
 /*
