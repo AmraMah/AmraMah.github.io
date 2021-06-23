@@ -25,7 +25,7 @@ div {
 	border-bottom: 1px solid  #ffb21f;
 	font-family: sans-serif;
     	font-color: #fd4f1b;
-    	background: #ececeb;
+    	/*background: #ececeb;*/
 	padding: 2px;
 	margin: 50px 20px 20px;
 }
@@ -37,7 +37,7 @@ div {
 	margin: 50px 20px 20px; 
 	font-family: sans-serif; 
 	font-color: #fd4f1b; 
-	background: #ececeb;
+	/*background: #ececeb;*/
 }
 
 label {
