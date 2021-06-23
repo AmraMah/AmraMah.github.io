@@ -1,26 +1,28 @@
 body{
 	/*background-image: url('americana-1512910_1280.png');*/
 	/*background-image: url('bg.png');*/
-	background-image: linear-gradient(#085067, #31748a);
+	background-color: white;
 	background-size: cover;
 }
 
 div {
-	background: #0a6380;
+	/*background: #0a6380;*/
 	border: 2px #81bbce;
 	border-radius: 4px;
 }
 #top {
+	background: #e8e7e1;
 	font-family: sans-serif;
     	text-align: center;
-    	color: #fefcfe;
+    	color: #fd4f1b;
     	padding: 2px;
-    	background-image: url('image.jpg');
+    	border-top: 1px solid #e44414;
+	border-bottom: 1px solid #e44414;
 }
 
 #projects {
 	font-family: sans-serif;
-    	font-color: #fefcfe;
+    	font-color: #fd4f1b;
     	/*background: inherit;*/
 	padding: 2px;
 	margin: 50px 20px 20px;
@@ -30,23 +32,23 @@ div {
 	padding: 20px; 
 	margin: 50px 20px 20px; 
 	font-family: sans-serif; 
-	font-color: #fefcfe; 
+	font-color: #fd4f1b; 
 	/*background: inherit;	*/
 }
 
 label {
-	color: #fefcfe;
+	color: #fd4f1b;
 }
 
 
 a {
 	font-family: sans-serif;
     	text-decoration: none;
-    	color: #fefcfe;
+    	color: #fd4f1b;
 }
 
 a:hover {
-	color: #81bbce;
+	color: #ff4d18;
 }
 
 ul {
