@@ -1,7 +1,7 @@
 body{
 	/*background-image: url('americana-1512910_1280.png');*/
 	/*background-image: url('bg.png');*/
-	 background-image: linear-gradient(#f9f8f3, #fff);
+	 background-image: linear-gradient(#fff, #f9f8f3);
 	background-size: cover;
 }
 
@@ -44,7 +44,7 @@ label {
 a {
 	font-family: sans-serif;
     	text-decoration: none;
-    	color: #ffb21f;
+    	color: #ff731f;
 }
 
 a:hover {
