@@ -21,23 +21,23 @@ div {
 }
 
 #projects {
-	border-top: 1px solid #e44414;
-	border-bottom: 1px solid #e44414;
+	border-top: 1px solid  #ffb21f;
+	border-bottom: 1px solid  #ffb21f;
 	font-family: sans-serif;
     	font-color: #fd4f1b;
-    	/*background: inherit;*/
+    	background: #ececeb;
 	padding: 2px;
 	margin: 50px 20px 20px;
 }
 
 #form_div {
-	border-top: 1px solid #e44414;
-	border-bottom: 1px solid #e44414;
+	border-top: 1px solid  #ffb21f;
+	border-bottom: 1px solid  #ffb21f;
 	padding: 20px; 
 	margin: 50px 20px 20px; 
 	font-family: sans-serif; 
 	font-color: #fd4f1b; 
-	/*background: inherit;	*/
+	background: #ececeb;
 }
 
 label {
